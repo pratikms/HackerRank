@@ -29,7 +29,7 @@
         - String Validators | [Problem](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/03.%20Strings/006.%20String%20Validators.py) | Score: 10
         - Text Alignment | [Problem](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/03.%20Strings/007.%20Text%20Alignment.py) | Score: 10
         - Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/03.%20Strings/008.%20Merge%20the%20Tools!.py) | Score: 40
-        - Text Wrap | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](#) | Score: 10
-        - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](#) | Score: 10
-        - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](#) | Score: 10
-        - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](#) | Score: 20
+        - Text Wrap | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | Solution | Score: 10
+        - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | Solution | Score: 10
+        - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | Solution | Score: 10
+        - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | Solution | Score: 20
