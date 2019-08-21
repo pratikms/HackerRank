@@ -35,3 +35,6 @@
         - Capitalize! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | Solution | Score: 20
     05. Math
         - Triangle Quest 2 | [Problem](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/05.%20Math/001.%20Triangle%20Quest%202.py) | Score: 20
+    06. Itertools
+        - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
+        - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/002.%20itertools.permutations().py) | Score: 10
