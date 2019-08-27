@@ -38,3 +38,5 @@
     06. Itertools
         - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/001.%20itertools.product().py) | Score: 10
         - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/002.%20itertools.permutations().py) | Score: 10
+        - itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/003.%20itertools.combinations().py) | Score: 10
+        - itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/pratikms/HackerRank/blob/master/Python/06.%20Itertools/005.%20itertools.combinations_with_replacement().py) | Score: 10
